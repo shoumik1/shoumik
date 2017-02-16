@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Shoumik's Projects Site
 
 You can use the [editor on GitHub](https://github.com/shoumik1/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
