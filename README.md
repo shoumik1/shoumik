@@ -5,7 +5,7 @@ Hello this site is still in progress but as I progress the site will build on it
 
 ## Resume
 
-Please feel free to checkout my resume [here!] (https://github.com/shoumik1/shoumik/raw/master/Updated%20Resume.pdf)
+Please feel free to checkout my resume [here!](https://github.com/shoumik1/shoumik/raw/master/Updated%20Resume.pdf)
 
 ### Markdown
 
