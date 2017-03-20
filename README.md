@@ -2,6 +2,11 @@
 
 Hello this site is still in progress but as I progress the site will build on itself.
 
+
+## Resume
+
+Please feel free to checkout my resume here [Link]https://github.com/shoumik1/shoumik/raw/master/Updated%20Resume.pdf
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
