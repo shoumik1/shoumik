@@ -3,9 +3,17 @@
 Hello this site is still in progress but as I progress the site will build on itself.
 
 
-## Resume
+### Resume
 
 Please feel free to checkout my resume [here!](https://github.com/shoumik1/shoumik/raw/master/Updated%20Resume.pdf)
+
+### Computing Languages
+
+- Python
+- Java
+- SQL
+- R
+- Scheme
 
 ### Markdown
 
