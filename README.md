@@ -17,7 +17,7 @@ Please feel free to checkout my resume [here!](https://github.com/shoumik1/shoum
 
 ### Projects
 
-Created a routing system called BearMaps of Berkeley! Demo available [here!](http://35.190.128.179:4567/)
+Created a mapping system of Berkeley called BearMaps! Demo available [here!](http://35.190.128.179:4567/)
 
 <!-- ### Markdown
 
