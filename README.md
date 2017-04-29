@@ -19,7 +19,7 @@ Please feel free to checkout my resume [here!](https://github.com/shoumik1/shoum
 
 Created a routing system called BearMaps of Berkeley! Demo available [here!](http://35.190.128.179:4567/)
 
-### Markdown
+<!-- ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -41,7 +41,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).--> 
 
 
 ### Support or Contact
